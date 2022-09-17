@@ -17,7 +17,7 @@ We have tried to create a solution for interview preperation of campus janta. Wh
 * Create a .env file and put your environment variables such as PORT, dbURI, secret(string for jwt authentication), admin_rootpath(for admin panel) in it. 
 * Now run the following command to start node-server:
 <pre>nodemon app</pre>
-* Go to <a>http://localhost:3000/</a>
+<!-- * Go to <a>http://localhost:3000/</a> -->
 
 
 ### Here are screenshots of the webpages :
